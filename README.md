@@ -18,8 +18,6 @@ Skills: C / C++ / Java / Python / HTML / CSS / Bash
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushavan20&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Sushavan20)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sushavan20)  
 
 ![Profile views](https://gpvc.arturio.dev/Sushavan20)  
