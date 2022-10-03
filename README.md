@@ -1,5 +1,5 @@
-<h1> <img src="https://media.tenor.com/GCySsw-9YXUAAAAC/hi.gif">
-<h2><p align="center"> Hi there 👋, I'm Sushavan Karmakar width="70">
+<h1> <p align="center"> <img src="https://media.tenor.com/GCySsw-9YXUAAAAC/hi.gif" width="100">
+<h2> <p align="center"> Hi there 👋, I'm Sushavan Karmakar 
 
 
 ### 
