@@ -1,4 +1,7 @@
-### Hi there 👋, I'm Sushavan
+<h2><p align="center"> Hi there 👋, I'm Sushavan Karmakar <img src="https://media.tenor.com/GCySsw-9YXUAAAAC/hi.gif" width="70">
+
+
+### 
 #### I am an Engineering Student from India
 ![I am an Engineering Student from India](https://wallpapercave.com/wp/wp1828912.png)
 
