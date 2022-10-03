@@ -1,13 +1,18 @@
 <h1> <p align="center"> <img src="https://media.tenor.com/GCySsw-9YXUAAAAC/hi.gif" width="150">
 <h2> <p align="center"> Hi there 👋, I'm Sushavan Karmakar </h2></p>
 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f"> </p>
+
 #### I am an Engineering Student from India
 <p><em> Currently Pursuing my Bachelor from <a href="https://aot.edu.in/">Academy of Technology</a> <img src="![image](https://user-images.githubusercontent.com/97795991/193498885-332911b0-1aab-4007-9f8e-f124fc82feec.png)" width="40"></br></em></p>
 
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg"  width="600">
+<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
+
+<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
 <h4 align="center">
+
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
@@ -30,9 +35,11 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 </h4>
+
+<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
-</p>
+
 
 
 
