@@ -1,7 +1,7 @@
 <h1> <p align="center"> <img src="https://media.tenor.com/GCySsw-9YXUAAAAC/hi.gif" width="150">
 <h2> <p align="center"> Hi there 👋, I'm Sushavan Karmakar </h2></p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f"> </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 #### I am an Engineering Student from India
 <p><em> Currently Pursuing my Bachelor from <a href="https://aot.edu.in/">Academy of Technology</a> <img src="![image](https://user-images.githubusercontent.com/97795991/193498885-332911b0-1aab-4007-9f8e-f124fc82feec.png)" width="40"></br></em></p>
