@@ -40,10 +40,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushavan20&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sushavan20)  
 
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<a href="https://github.com/Sushavan20"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushavan20&layout=compact&theme=merko">
-
 
 
 
