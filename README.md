@@ -37,7 +37,7 @@
 </h4>
 
 <p align="center"> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushavan20)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushavan20)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushavan20&show_icons=true)  
 
