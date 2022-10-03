@@ -1,4 +1,4 @@
-<h1> <p align="center"> <img src="[https://media.tenor.com/GCySsw-9YXUAAAAC/hi.gif](https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif)" width="150">
+<h1> <p align="center"> <img src="https://tenor.com/view/programmer-rounded-edges-gif-26214286" width="150">
 <h2> <p align="center"> Hi there 👋, I'm Sushavan Karmakar 
 
 
