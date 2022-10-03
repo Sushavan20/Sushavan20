@@ -37,7 +37,13 @@
 </h4>
 
 <p align="center"> 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sushavan20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sushavan20/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@iamgublu)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushavan20)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushavan20&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sushavan20)  
+
+![Profile views](https://gpvc.arturio.dev/Sushavan20)  
 
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
@@ -64,12 +70,6 @@ Skills: C / C++ / Java / Python / HTML / CSS / Bash
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushavan20)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushavan20&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sushavan20)  
-
-![Profile views](https://gpvc.arturio.dev/Sushavan20)  
   <p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> </p>
 🌐
