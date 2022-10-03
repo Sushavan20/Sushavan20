@@ -5,8 +5,7 @@
 <p><em> Currently Pursuing my Bachelor from <a href="https://aot.edu.in/">Academy of Technology</a> <img src="![image](https://user-images.githubusercontent.com/97795991/193498885-332911b0-1aab-4007-9f8e-f124fc82feec.png)" width="40"></br></em></p>
 
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg"  width="600">
+<p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg"  width="600"> </p>
 
 I made this project just for fun. I’m currently learning Data Structures and Algorithms. Fun fact I spend 80% of my day in PC .
 
