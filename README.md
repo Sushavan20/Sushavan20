@@ -2,7 +2,7 @@
 <h2> <p align="center"> Hi there 👋, I'm Sushavan Karmakar </h2></p>
 
 #### I am an Engineering Student from India
-<p><em> Currently Pursuing my Bachelor from <a href="https://aot.edu.in/">Academy of Technology</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"></br></em></p>
+<p><em> Currently Pursuing my Bachelor from <a href="https://aot.edu.in/">Academy of Technology</a> <img src="![image](https://user-images.githubusercontent.com/97795991/193498885-332911b0-1aab-4007-9f8e-f124fc82feec.png)" width="40"></br></em></p>
 
 ![I am an Engineering Student from India](https://wallpapercave.com/wp/wp1828912.png)
 
