@@ -1,9 +1,9 @@
 <h1> <p align="center"> <img src="https://media.tenor.com/GCySsw-9YXUAAAAC/hi.gif" width="150">
 <h2> <p align="center"> Hi there 👋, I'm Sushavan Karmakar </h2></p>
 
-
-### 
 #### I am an Engineering Student from India
+<p><em> Currently Pursuing my Bachelor from <a href="https://aot.edu.in/">Academy of Technology</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"></br></em></p>
+
 ![I am an Engineering Student from India](https://wallpapercave.com/wp/wp1828912.png)
 
 I made this project just for fun. I’m currently learning Data Structures and Algorithms. Fun fact I spend 80% of my day in PC .
