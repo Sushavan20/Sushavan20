@@ -6,12 +6,10 @@
 #### I am an Engineering Student from India
 <p><em> Currently Pursuing my Bachelor from <a href="https://aot.edu.in/">Academy of Technology</a> <img src="![image](https://user-images.githubusercontent.com/97795991/193498885-332911b0-1aab-4007-9f8e-f124fc82feec.png)" width="40"></br></em></p>
 - 🔭 I’m currently working on Machine Learning and Web Development. 
+- 🌱 I’m currently learning Cloud and AI.
+- 📫 How to reach me: sushavan.karmakar@gmail.com 
+- ⚡ Fun fact: I love SPACE. 
 
-
-####  - 🔭 I’m currently working on
-####  - 🌱 I’m currently learning Data Structure & Algorithm 
-####  - 📫 How to reach me: sushavan.karmakar@gmail.com 
-####  - ⚡ Fun fact: I love SPACE. 
 
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
