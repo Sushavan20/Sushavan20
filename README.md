@@ -53,8 +53,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sushavan20&show_icons=true&locale=en" alt="Sushavan20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushavan20&" alt="Sushavan20" /></p>
+
 [![@sk20's Holopin board](https://holopin.me/sk20)](https://holopin.io/@sk20)
-[![@sk20's Holopin board](https://holopin.me/sk20)](https://holopin.io/@sk20)
+
 
 
   <p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> </p>
