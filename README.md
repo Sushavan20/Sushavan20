@@ -5,6 +5,8 @@
 
 #### I am an Engineering Student from India
 <p><em> Currently Pursuing my Bachelor from <a href="https://aot.edu.in/">Academy of Technology</a> <img src="![image](https://user-images.githubusercontent.com/97795991/193498885-332911b0-1aab-4007-9f8e-f124fc82feec.png)" width="40"></br></em></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sushavan20&label=Profile%20views&color=0e75b6&style=flat" alt="souravkundu119" /> </p>
+
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
