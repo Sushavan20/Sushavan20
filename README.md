@@ -14,10 +14,6 @@
 <p>- ⚡ Fun fact: I love SPACE.  </p>
 
 
-
-
-
-
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
@@ -58,5 +54,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushavan20&" alt="Sushavan20" /></p>
 
 [![@sk20's Holopin board](https://holopin.me/sk20)](https://holopin.io/@sk20)
+
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> </p>
