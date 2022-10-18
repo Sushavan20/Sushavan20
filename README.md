@@ -3,8 +3,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/sushavan-karmakar-7965a2195/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:sushavan.karmakar@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Sushavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/sushavan-karmakar-7965a2195/)
+[![Gmail Badge](https://img.shields.io/badge/-sushavan.karmakar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:sushavan.karmakar@gmail.com) 
 
 #### I am an Engineering Student from India
 <p><em> Currently Pursuing my Bachelor from <a href="https://aot.edu.in/">Academy of Technology</a> <img src="![image](https://user-images.githubusercontent.com/97795991/193498885-332911b0-1aab-4007-9f8e-f124fc82feec.png)" width="40"></br></em></p>
