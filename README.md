@@ -54,6 +54,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushavan20&" alt="Sushavan20" /></p>
 
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
+
 [![@sk20's Holopin board](https://holopin.me/sk20)](https://holopin.io/@sk20)
 
 <div align="center">
