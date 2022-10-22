@@ -60,7 +60,7 @@
 [![@sk20's Holopin board](https://holopin.me/sk20)](https://holopin.io/@sk20)
 
 <div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by giving 🌟 some of the repositories!</h3>
 </div>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> </p>
