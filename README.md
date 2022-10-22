@@ -13,6 +13,7 @@
 <p>- 📫 How to reach me: sushavan.karmakar@gmail.com  </p>
 <p>- ⚡ Fun fact: I love SPACE.  </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
