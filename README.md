@@ -5,10 +5,8 @@
 <h3 align="center">
   Hi there 👋, I'm Sushavan Karmakar. Let's Connect and have a Chat!💬
 </h3>
-<p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-Sushavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/sushavan-karmakar-7965a2195/)
 [![Gmail Badge](https://img.shields.io/badge/-sushavan.karmakar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:sushavan.karmakar@gmail.com) 
-</p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
