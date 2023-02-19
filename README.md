@@ -118,6 +118,11 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> &nbsp;
 </p>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+</p>
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
 </p>
