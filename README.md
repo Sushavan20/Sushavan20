@@ -125,6 +125,12 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 </p>
   
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Sushavan20&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/Sushavan20/github-readme-stats)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushavan20&theme=dracula)
+
+![](https://api.githubtrends.io/user/svg/Sushavan20/langs?time_range=one_year&include_private=True&theme=classic)
+
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
