@@ -119,7 +119,9 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 </p>
 
 
-
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushavan20&show_icons=true&locale=en&layout=compact" alt="Sushavan20" /></p>
 
