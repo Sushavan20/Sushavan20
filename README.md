@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFhM2JmMmY2NDMzYzhkZjM2MTBlNDA2YzdkZDJlOWI4Y2EyZTMwNiZjdD1n/CcwLAV11cALh3OuEJ5/giphy.gif" height="300" width="600">
+</p>
+
 <h3 align="center">
   Hi there 👋, I'm Sushavan Karmakar. Let's Connect and have a Chat!💬
 </h3>
