@@ -1,16 +1,16 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h1> <p align="center"> <img src="https://media.tenor.com/GCySsw-9YXUAAAAC/hi.gif" width="150">
 <h3 align="center">
   Hi there 👋, I'm Sushavan Karmakar. Let's Connect and have a Chat!💬
 </h3>
-  
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sushavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/sushavan-karmakar-7965a2195/)
 [![Gmail Badge](https://img.shields.io/badge/-sushavan.karmakar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:sushavan.karmakar@gmail.com) 
