@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+
+
 <h1> <p align="center"> <img src="https://media.tenor.com/GCySsw-9YXUAAAAC/hi.gif" width="150">
 <h2> <p align="center"> Hi there 👋, I'm Sushavan Karmakar </h2></p>
 
