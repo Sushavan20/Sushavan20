@@ -27,7 +27,7 @@
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk1NTRlOGRjMjY3ZDY0NjYyYTYwMmM1MDBiNzNiNjkxZjg0ZWZkMCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" height="300" width="500">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk1NTRlOGRjMjY3ZDY0NjYyYTYwMmM1MDBiNzNiNjkxZjg0ZWZkMCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" height="300" width="550">
 </p>
 
 
@@ -96,7 +96,7 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzIzZGM4ZmI2NTZkYmUxNjMwYWQzMTczMTk4NTk1ZmRhYzAyNjJiZSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" height="300" width="500">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzIzZGM4ZmI2NTZkYmUxNjMwYWQzMTczMTk4NTk1ZmRhYzAyNjJiZSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" height="300" width="600">
 </p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
