@@ -120,13 +120,10 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 
 
 <p align="center">
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 </p>
   
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
-</p>
-
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
