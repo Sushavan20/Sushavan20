@@ -36,48 +36,39 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+name: Sushavan Karmakar
+located_in: Chandannagar, West Bengal, India
+current_job: Java Developer - Intern
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Bachelor's in Cmoputer Science and Engineering",
   ]
-company: Soulber
+company: TBD
 
 fields_of_interests:
   [
     "Web Development",
     "Data Science",
     "Machine Learning",
-    "UI/UX",
+    "Artificial Intelligence",
     "Game Development",
-    "DevOps",
+    "Cloud",
+    "Aerospace",
+    "Automobile"
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Intern - Java",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["GIT, MAVEN and SPRING"]
+hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 ```
   
 ---  
 
 
-#### I am an Engineering Student from India
-<p><em> Currently Pursuing my Bachelor from <a href="https://aot.edu.in/">Academy of Technology</a> <img src="![image](https://user-images.githubusercontent.com/97795991/193498885-332911b0-1aab-4007-9f8e-f124fc82feec.png)" width="40"></br></em></p>
-<p>- 🔭 I’m currently working on Machine Learning and Web Development. </p>
-<p>- 🌱 I’m currently learning Cloud and AI. </p>
-<p>- 📫 How to reach me: sushavan.karmakar@gmail.com  </p>
-<p>- ⚡ Fun fact: I love SPACE.  </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
