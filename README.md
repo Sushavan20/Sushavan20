@@ -124,7 +124,7 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 </p>
   
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/Sushavan20/github-readme-stats)
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Sushavan20&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/Sushavan20/github-readme-stats)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
