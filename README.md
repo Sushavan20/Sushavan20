@@ -11,6 +11,9 @@
 <a href="https://sushavan20.github.io/Potrfolio/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
+<a href="mailto:sushavan.karmakar@gmail.com">
+  <img height="50" src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg"/>
+</a>
 <a href="https://www.linkedin.com/in/sushavan-karmakar-7965a2195/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
