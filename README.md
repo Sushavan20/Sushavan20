@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">
+  <a href="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif">
   <img src= "https://giphy.com/embed/qgQUggAC3Pfv687qPC">
   </a>
 </p>
