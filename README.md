@@ -119,23 +119,23 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 </p>
 
 
-<p align="center">
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-</p>
-  
+ 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Sushavan20&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/Sushavan20/github-readme-stats)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushavan20&theme=dracula)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushavan20&show_icons=true&locale=en&layout=compact" alt="Sushavan20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushavan20&" alt="Sushavan20" /></p>
   
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
 [![@sk20's Holopin board](https://holopin.me/sk20)](https://holopin.io/@sk20)
+
+<p align="center">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+</p>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
