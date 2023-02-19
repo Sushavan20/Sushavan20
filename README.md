@@ -11,6 +11,7 @@
 <a href="https://sushavan20.github.io/Potrfolio/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
+&nbsp;
 <a href="mailto:sushavan.karmakar@gmail.com">
   <img height="50" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/7912006/gmail-icon-md.png"/>
 </a>
