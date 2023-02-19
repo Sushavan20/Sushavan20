@@ -129,26 +129,17 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushavan20&theme=dracula)
 
-![](https://api.githubtrends.io/user/svg/Sushavan20/langs?time_range=one_year&include_private=True&theme=classic)
-
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushavan20&show_icons=true&locale=en&layout=compact" alt="Sushavan20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sushavan20&show_icons=true&locale=en" alt="Sushavan20" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushavan20&" alt="Sushavan20" /></p>
-
-
+  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
 [![@sk20's Holopin board](https://holopin.me/sk20)](https://holopin.io/@sk20)
 
-<div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by giving 🌟 some of the repositories!</h3>
-</div>
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> </p>
+
+
