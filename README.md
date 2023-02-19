@@ -69,7 +69,7 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
   
 ---  
 
-
+<div align="center">
 
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
