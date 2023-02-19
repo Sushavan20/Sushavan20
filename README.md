@@ -38,6 +38,7 @@
 ```yaml
 name: Sushavan Karmakar
 located_in: Chandannagar, West Bengal, India
+current_institute: Academy of Technology
 current_job: Java Developer - Intern
 education:
   [
