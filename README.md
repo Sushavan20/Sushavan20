@@ -102,7 +102,6 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzIzZGM4ZmI2NTZkYmUxNjMwYWQzMTczMTk4NTk1ZmRhYzAyNjJiZSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" height="300" width="600">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM0YWRhMjI2Y2MzOTQxMjc1YzZiY2ZhYmJlYmUwMDA5YjRmNmFkYSZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" height="300" width="600">
 </p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -132,6 +131,11 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushavan20&" alt="Sushavan20" /></p>
   
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM0YWRhMjI2Y2MzOTQxMjc1YzZiY2ZhYmJlYmUwMDA5YjRmNmFkYSZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" height="300" width="600">
+</p>
+
 
 [![@sk20's Holopin board](https://holopin.me/sk20)](https://holopin.io/@sk20)
 
