@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFhM2JmMmY2NDMzYzhkZjM2MTBlNDA2YzdkZDJlOWI4Y2EyZTMwNiZjdD1n/CcwLAV11cALh3OuEJ5/giphy.gif" height="120" width="600">
+</p>
+
+<p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk1NTRlOGRjMjY3ZDY0NjYyYTYwMmM1MDBiNzNiNjkxZjg0ZWZkMCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" height="300" width="550">
 </p>
 
@@ -68,9 +72,7 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
   
 ---  
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFhM2JmMmY2NDMzYzhkZjM2MTBlNDA2YzdkZDJlOWI4Y2EyZTMwNiZjdD1n/CcwLAV11cALh3OuEJ5/giphy.gif" height="120" width="600">
-</p>
+
 
 
 <div align="center">
