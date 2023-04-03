@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFhM2JmMmY2NDMzYzhkZjM2MTBlNDA2YzdkZDJlOWI4Y2EyZTMwNiZjdD1n/CcwLAV11cALh3OuEJ5/giphy.gif" height="120" width="600">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk1NTRlOGRjMjY3ZDY0NjYyYTYwMmM1MDBiNzNiNjkxZjg0ZWZkMCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" height="300" width="550">
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -29,12 +29,6 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-
-
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk1NTRlOGRjMjY3ZDY0NjYyYTYwMmM1MDBiNzNiNjkxZjg0ZWZkMCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" height="300" width="550">
-</p>
-
 
 ---
 
@@ -73,6 +67,11 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 ```
   
 ---  
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFhM2JmMmY2NDMzYzhkZjM2MTBlNDA2YzdkZDJlOWI4Y2EyZTMwNiZjdD1n/CcwLAV11cALh3OuEJ5/giphy.gif" height="120" width="600">
+</p>
+
 
 <div align="center">
 
