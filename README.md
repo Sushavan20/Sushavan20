@@ -9,7 +9,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk1NTRlOGRjMjY3ZDY0NjYyYTYwMmM1MDBiNzNiNjkxZjg0ZWZkMCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" height="300" width="550">
 </p>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">
   Hi there 👋, I'm Sushavan Karmakar. Let's Connect and have a Chat!💬
 </h3>
