@@ -103,7 +103,7 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushavan20&theme=github_dark&show_icons=true" />
   </a>
   <br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushavan20&" alt="Sushavan20" /></p>
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushavan20&theme=moonlight" alt="Sushavan20" /></p>
 </div> 
 
   
