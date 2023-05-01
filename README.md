@@ -84,7 +84,7 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 <div style="display: inline_block">
   <p align="center">
 	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,atom,replit,anaconda" />
+      <img align="center" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,atom,replit,conda" />
     </a>
   </p>
 </div>
