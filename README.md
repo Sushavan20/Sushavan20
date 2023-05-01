@@ -9,11 +9,11 @@
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">
-  Hi there 👋, I'm Sushavan Karmakar. Let's Connect and have a Chat!💬
+  Let's Connect and have a Chat!💬
 </h3>
 
 <p align="center">
-<a href="https://sushavan20.github.io/Potrfolio/">
+<a href="https://sk20-portfolio.netlify.app">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 &nbsp;
