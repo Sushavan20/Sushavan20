@@ -9,30 +9,31 @@
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk1NTRlOGRjMjY3ZDY0NjYyYTYwMmM1MDBiNzNiNjkxZjg0ZWZkMCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" height="300" width="550">
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+---
+
 <h3 align="center">
   Let's Connect and have a Chat!💬
 </h3>
 
 <p align="center">
-<a href="https://sk20-portfolio.netlify.app">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-&nbsp;
-<a href="mailto:sushavan.karmakar@gmail.com">
-  <img height="50" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/7912006/gmail-icon-md.png"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sushavan-karmakar-7965a2195/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/sushavan20/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+  <a href="https://sk20-portfolio.netlify.app">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sushavan.karmakar@gmail.com">
+    <img height="50" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/7912006/gmail-icon-md.png"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sushavan-karmakar-7965a2195/">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/sushavan20/">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  </a>
 </p>
-
----
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
