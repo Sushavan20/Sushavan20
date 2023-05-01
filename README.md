@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Sushavan+Karmakar;I'm+from+West+Bengal,+India;I'm+a+Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Sushavan+Karmakar;I'm+from+West+Bengal,+India;I'm+a+Java+Full+Stack+Developer;Welcome+to+my+Github+profile)
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk1NTRlOGRjMjY3ZDY0NjYyYTYwMmM1MDBiNzNiNjkxZjg0ZWZkMCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" height="300" width="550">
