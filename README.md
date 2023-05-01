@@ -114,8 +114,6 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 </p>
 
 
-![Snake animation](https://github.com/Sushavan20/Sushavan20/blob/output/github-contribution-grid-snake.svg)
-
 [![@sk20's Holopin board](https://holopin.me/sk20)](https://holopin.io/@sk20)
 
 <p align="center">
