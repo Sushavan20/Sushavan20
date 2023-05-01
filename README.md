@@ -72,20 +72,13 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 ---  
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/> &nbsp;
- </p>
+<div style="display: inline_block">
+  <p align="center">
+	<a href="#">
+      <img align="center" src="https://skillicons.dev/icons?i=java, c, cpp, py, html, css, js, nodejs, spring, flask, maven, postman, gcp, git, github, mysql, sqlite, bash" />
+    </a>
+  </p>
+</div>
 
 
 
@@ -111,13 +104,7 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM0YWRhMjI2Y2MzOTQxMjc1YzZiY2ZhYmJlYmUwMDA5YjRmNmFkYSZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" height="300" width="600">
 </p>
 
-<div style="display: inline_block">
-  <p align="center">
-	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs,maven,spring,oracle,mysql,postman,git,github,gitlab,cmake,gcp,eclipse,vscode" />
-    </a>
-  </p>
-</div>
+
 
 [![@sk20's Holopin board](https://holopin.me/sk20)](https://holopin.io/@sk20)
 
