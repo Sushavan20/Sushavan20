@@ -71,11 +71,20 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
   
 ---  
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Languages & Tools I have used and learned</h2>
 <div style="display: inline_block">
   <p align="center">
 	<a href="#">
       <img align="center" src="https://skillicons.dev/icons?i=java,c,cpp,py,html,css,js,nodejs,spring,flask,maven,postman,gcp,git,github,mysql,sqlite,bash" />
+    </a>
+  </p>
+</div>
+
+<h2> 🚀 &nbsp;Some IDE & Editor Tools I have used</h2>
+<div style="display: inline_block">
+  <p align="center">
+	<a href="#">
+      <img align="center" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,atom,replit,anaconda" />
     </a>
   </p>
 </div>
