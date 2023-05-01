@@ -62,7 +62,7 @@ technical_background:
     "Intern - Java",
   ]
   
-currently_learning: ["GIT, MAVEN and SPRING"]
+currently_learning: ["ML and SPRING BOOT"]
 hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 ```
   
