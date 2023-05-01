@@ -114,7 +114,7 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 <div style="display: inline_block">
   <p align="center">
 	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=c,c++,java&theme=light,python,html,css,js,nodejs&theme=light,maven,spring,oracle,mysql,git" />
+      <img align="center" src="https://skillicons.dev/icons?i=c,c++,java,python,html,css,js,nodejs,maven,spring,oracle,mysql,git" />
     </a>
   </p>
 </div>
