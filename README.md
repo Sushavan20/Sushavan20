@@ -103,13 +103,6 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 </div> 
 
 
- 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Sushavan20&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/Sushavan20/github-readme-stats)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushavan20&theme=dracula)
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushavan20&" alt="Sushavan20" /></p>
   
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
