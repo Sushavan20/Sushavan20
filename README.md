@@ -109,11 +109,6 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
   
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM0YWRhMjI2Y2MzOTQxMjc1YzZiY2ZhYmJlYmUwMDA5YjRmNmFkYSZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" height="300" width="600">
-</p>
-
-
 [![@sk20's Holopin board](https://holopin.me/sk20)](https://holopin.io/@sk20)
 
 <p align="center">
