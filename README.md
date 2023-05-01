@@ -84,7 +84,7 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 <div style="display: inline_block">
   <p align="center">
 	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,atom,replit,conda" />
+      <img align="center" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,atom,replit" />
     </a>
   </p>
 </div>
@@ -114,6 +114,7 @@ hobbies: ["Gaming", "Sports", "Music", "Comedy"]
 </p>
 
 
+![Snake animation](https://github.com/Sushavan20/Sushavan20/blob/output/github-contribution-grid-snake.svg)
 
 [![@sk20's Holopin board](https://holopin.me/sk20)](https://holopin.io/@sk20)
 
