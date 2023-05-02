@@ -39,8 +39,8 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://souravkundu119.github.io/Portfolio/](https://souravkundu119.github.io/Portfolio/)
-
+- 👨‍💻 All of my projects are available at [Click here](#)
+* 🔭 I’m currently working on ... [Click here](#)
 
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
