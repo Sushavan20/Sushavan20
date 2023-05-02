@@ -31,7 +31,7 @@
   </a>
   &nbsp;
   <a href="https://www.facebook.com/sushavan.karmakar.7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="40" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/sushavan20/" target="blank">
