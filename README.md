@@ -14,7 +14,6 @@
 ---
 
 <h3 align="center">
-	<p> <img src="https://komarev.com/ghpvc/?username=Sushavan20&label=Profile%20views&color=0e75b6&style=flat" alt="Sushavan20" /> </p>
   Let's Connect and have a Chat!💬
 </h3>
 
