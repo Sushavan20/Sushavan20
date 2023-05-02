@@ -41,7 +41,7 @@
 
 - 👨‍💻 All of my projects are available at [Click here](#)
 * 🔭 I’m currently working on ... [Click here](#)
-
+- 📄 Know about my experiences [Resume](./Resume_curr)
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
