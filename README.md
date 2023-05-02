@@ -18,22 +18,30 @@
 </h3>
 
 <p align="center">
-  <a href="https://sk20-portfolio.netlify.app">
+  <a href="https://sk20-portfolio.netlify.app" target="blank">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a>
   &nbsp;
-  <a href="mailto:sushavan.karmakar@gmail.com">
+  <a href="mailto:sushavan.karmakar@gmail.com" target="blank">
     <img height="50" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/7912006/gmail-icon-md.png"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sushavan-karmakar-7965a2195/">
+  <a href="https://www.linkedin.com/in/sushavan-karmakar-7965a2195/" target="blank">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/sushavan20/">
+  <a href="https://www.facebook.com/sushavan.karmakar.7" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/sushavan20/" target="blank">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
   </a>
 </p>
+
+- 👨‍💻 All of my projects are available at [https://souravkundu119.github.io/Portfolio/](https://souravkundu119.github.io/Portfolio/)
+
+
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
