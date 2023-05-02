@@ -41,7 +41,7 @@
 
 - 👨‍💻 All of my projects are available at [Click here](#)
 * 🔭 I’m currently working on ... [Click here](#)
-- 📄 Know about my experiences [Resume](./Resume_curr)
+- 📄 Know about my experiences [Resume](https://github.com/Sushavan20/Sushavan20/blob/main/Resume_Curr.pdf)
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
