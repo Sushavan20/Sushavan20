@@ -31,7 +31,7 @@
   </a>
   &nbsp;
   <a href="https://www.facebook.com/sushavan.karmakar.7" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="40" />
+    <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/null/external-facebook-social-media-justicon-lineal-color-justicon.png" height="50"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/sushavan20/" target="blank">
